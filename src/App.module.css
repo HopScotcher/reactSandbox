@@ -1,0 +1,22 @@
+img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+button {
+  margin: 10px;
+  padding: 0.3rem 0.6rem;
+  font-size: inherit;
+  cursor: pointer;
+}
+
+.receiving--data {
+  background-color: lawngreen;
+  border: none;
+}
+
+.no--data {
+  background-color: #f0f0f0;
+  border: "none";
+}
